@@ -1,0 +1,13 @@
+Steps for installing idle python software 3.12.7 version 
+Open the browser 
+enter the python 
+open python.org 
+goto downloads 
+download the python idle new version 
+then open download file 
+select custom install
+then click on all check boxes 
+then click next 
+specify the location file 
+then click on install 
+then proceed with the programming 
