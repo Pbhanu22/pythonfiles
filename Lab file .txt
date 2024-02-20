@@ -1,0 +1,8 @@
+vowels = ['a', 'e', 'i', 'o', 'u']
+length = 3  # Change the length as needed
+
+# Nested loops to generate all possible strings
+for v1 in vowels:
+    for v2 in vowels:
+        for v3 in vowels:
+            print(v1 + v2 + v3)
