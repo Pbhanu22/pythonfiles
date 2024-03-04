@@ -1,0 +1,46 @@
+1. a. Write a Python program to create all possible strings by using 'a', 'e', 'i', 'o', 'u
+b. Write a Python program to create all possible permutations from a given collection of
+distinct numbers.
+ c. Write a Python program to check the priority of the four operators (+, -, *, /).
+ 2. a. Write a Python program that accepts a sequence of lines (blank line to terminate) as
+input and prints the lines as output (all characters in lower case).
+ b. Write a Python program to check the validity of password input by users.
+ At least 1 number between [0-9].
+ At least 1 character from [$#@].
+ Minimum length 6 characters.
+ Maximum length 16 characters.
+ At least 1 letter between [a-z] and 1 letter between [A-Z].
+3. a. Write a Python function to check whether a number is in a given range.
+ b. Write a Python function that prints out the first n rows of Pascal's triangle.
+4. Write a Python program to make a chain of function decorators (bold, italic, underline
+ etc.) in Python.
+ 5. a. Write a Python program to find the list of words that are longer than n from a given
+ list of words.
+ b. Write a Python program to create a list by concatenating a given list which range
+ goes from 1 to n.
+ c. Write a Python program to find missing and additional values in two lists.
+6. Write a Python program to sort the list of elements using the following sorting
+techniques:
+a) Merge Sort
+b) Quick Sort
+7. a. Write a Python program to sort a dictionary by key.
+ b. Write a Python program to create and display all combinations of letters, selecting
+each letter from a different key in a dictionary.
+With effect from the Academic Year 2020-21
+35
+ c. Write a Python program to create a dictionary from two lists without losing
+duplicate values.
+8. a. Write a Python program to remove empty tuple(s) from a list of tuples.
+ b. Write a Python program to solve the Knapsack problem Using Greedy Method.
+9. Write a Python program to unzip a list of tuples into individual lists.
+10. a. Write A Program to Create a Class which Performs Basic Calculator Operations
+b. Write A Program to Create a Class in which One Method Accepts a String from the
+User and Another Prints it.
+11. Write a Program to find the minimum cost spanning tree using
+a) Prim‟s Algorithm
+b) Kruskal‟s Algorithm
+12. Write a program to find Single Source Shortest path.
+13. Write A Program that Reads a text file and counts the number of occurrences of a
+ given word.
+14. Write A Program that Reads a CSV File, replace the blank cells with null operations
+ and group the data with their statistical means.
